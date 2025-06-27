@@ -20,8 +20,8 @@ I'm a University of Portland student studying for a B.S. in computer science and
 ---
 
 ### 💡 Fun Facts
+- 🎮 In my free time, I love gaming — lately it’s been **Valorant**, **Minecraft**, and **The Sims 4**
 - 🧠 Favorite debugging snack: **Red Licorice** 🍬
-- 📚 Always balancing engineering with philosophy and ethics — curious about **tech for good**
 
 ---
 
