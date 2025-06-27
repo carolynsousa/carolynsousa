@@ -31,4 +31,12 @@ I'm a University of Portland student pursuing a B.S. in Computer Science with a 
 
 ---
 
+### 📊 GitHub Stats
+
+![Carolyn's GitHub Stats](https://github-readme-stats.vercel.app/api?username=carolynsousa&show_icons=true&theme=default&hide=stars&hide_border=false)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=carolynsousa&layout=compact&theme=default&hide_border=false)
+
+---
+
 _“Good software, like wine, takes time.” – Joel Spolsky_
