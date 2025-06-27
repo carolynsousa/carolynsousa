@@ -1,35 +1,34 @@
 ## Hi there 👋 I'm Carolyn Sousa
 
-I'm a University of Portland student studying for a B.S. in computer science and a minor in cybersecurity. Whether it’s crafting full-stack web apps, diving into cybersecurity, or automating real-world systems with IoT, I’m all about solving problems and pushing boundaries.
+I'm a University of Portland student pursuing a B.S. in Computer Science with a minor in Cybersecurity. Whether it’s crafting full-stack web apps, diving into security, or automating real-world systems with IoT, I’m all about solving problems and pushing boundaries.
 
 ---
 
 ### 🚀 What I’m Up To
-- 🔭 Currently working on **RoboBucket** – a full-stack IoT website that collects environmental data from a Wi-Fi-connected robot and sends smart alerts
-- 🌱 Learning more about **DevOps**, **secure backend systems**, and **large language models**
-- 🧠 Exploring the intersection of **AI** and **embedded systems**
-- ✍️ Writing clean code and building practical tools for real users
+- 🔭 Currently working on personal projects focused on **automation**, **AI integration**, and **intuitive UI/UX**
+- 🛠️ Prototyping tools and apps that make everyday tasks simpler and smarter
 
 ---
 
 ### 🛠️ Tech Stack
-- **Languages:** Java, C, Python, JavaScript, SQL
-- **Tools & Frameworks:** Node.js, Express, MySQL/MariaDB, Git, HTML/CSS, Arduino, tmux, VS Code
-- **Concepts:** Full-stack development, REST APIs, sensor integration, LLM configuration, Linux/Unix systems
+- **Languages:** Java, C, Python, JavaScript, SQL  
+- **Tools & Frameworks:** Node.js, Express, MySQL/MariaDB, Git, HTML/CSS, Arduino, tmux, VS Code  
+- **Concepts:** Full-stack development, REST APIs, sensor integration, LLMs, Linux/Unix systems
 
 ---
 
 ### 💡 Fun Facts
-- 🎮 In my free time, I love gaming — lately it’s been **Valorant**, **Minecraft**, and **The Sims 4**
-- 🧠 Favorite debugging snack: **Red Licorice** 🍬
+- 🎮 Gaming is my go-to — currently into **Valorant**, **Minecraft**, and **The Sims 4**
+- 🍬 Debugging fuel: **Red Licorice**
+- 🧠 Curious about the intersection of ethics, creativity, and code
 
 ---
 
 ### 📫 Let’s Connect
-- 💌 Email: [carolyn.sousa@yahoo.com](mailto:carolyn.sousa@yahoo.com)
+- 💌 Email: [carolyn.sousa@yahoo.com](mailto:carolyn.sousa@yahoo.com)  
 - 🔗 LinkedIn: [linkedin.com/in/carolynsousa](https://www.linkedin.com/in/carolynsousa)  
-- 🧠 Portfolio (in progress...)
+- 🌐 Portfolio: *in progress...*
 
 ---
 
-_“Good software, like wine, takes time.”_-Joel Spolsky
+_“Good software, like wine, takes time.” – Joel Spolsky_
